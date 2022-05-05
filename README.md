@@ -1,1 +1,2 @@
-# JetBrains_Academy
+# JetBrains Academy
+
